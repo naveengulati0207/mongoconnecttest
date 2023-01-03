@@ -8,5 +8,6 @@ setup(
     license='',
     author='hp',
     author_email='naveen.gulati@kockpit.in',
-    description='testpackage'
+    description='testpackage',
+    install_requires=['pandas'],
 )
