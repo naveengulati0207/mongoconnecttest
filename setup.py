@@ -9,5 +9,5 @@ setup(
     author='hp',
     author_email='naveen.gulati@kockpit.in',
     description='testpackage',
-    install_requires=['pandas','numpy'],
+    install_requires=['pandas','numpy','pyspark'],
 )
